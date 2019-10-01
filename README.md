@@ -3,7 +3,7 @@
 
 This repository is based on the "3D Perception Project for the Robotic Nanodilation Program" available [here](https://github.com/udacity/RoboND-Perception-Project.git) and on the recommended exercises from [here](https://github.com/udacity/RoboND-Perception-Exercises.git).
 
-I am a graduate of the Robotics Nanodrama Program, but this repository was created only for my own experimentation, created from scratch.
+I am [a graduate of the Robotics Nanodrama Program](https://confirm.udacity.com/FVFNTWJL), but this repository was created only for my own experimentation, created from scratch.
 
 ## Project Setup
 
