@@ -10,9 +10,13 @@ I am [a graduate of the Robotics Nanodrama Program](https://confirm.udacity.com/
 For this setup, catkin_ws is the name of active ROS Workspace, if your workspace name is different, change the commands accordingly If you do not have an active ROS workspace, you can create one by:
 
 $ mkdir -p ~/catkin_ws/src
+
 $ cd ~/catkin_ws/
+
 $ catkin_make
+
 Now that you have a workspace, clone or download this repo into the src directory of your workspace:
 
 $ cd ~/catkin_ws/src
+
 $ git clone https://github.com/juancruzgassoloncan/perception.git
