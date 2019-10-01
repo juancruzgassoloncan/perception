@@ -10,17 +10,15 @@
 --------------------------------------------------------------------------------
 ### Some comments about the code
 
-The code for the **RoboND-Perception-Excercise** is at the `row_ws/3-catking_ws/` specifically the for `sensor_stick`
-
-The code for the current project is mainly in `pr2_perception.py`. The other important file is `my_helper.py` that has all the python functions implemented and used in` pr2_perception.py`.
+The code for the current project is mainly in `perception.py`. The other important file is `my_helper.py` that has all the python functions implemented and used in` perception.py`.
 
 The `pick_place_project.launch` file receive as argument `num` the test scena number.
 
   * i.e. `roslaunch pr2_robot pick_place_project.launch num:=1` for test1.world and `pick_list_1.yaml`.
 
-The same is for the python script `pr2_perception.py` that recieve the argument -n  o --number.
+The same is for the python script `perception.py` that recieve the argument -n  o --number.
 
- * i.e `python pr2_perception.py -n 1` for the test1.world
+ * i.e `python perception.py -n 1` for the test1.world
 
 ### Exercise 1, 2 and 3 pipeline implemented
 
